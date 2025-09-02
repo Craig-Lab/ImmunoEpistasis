@@ -1,0 +1,10 @@
+Save both files to any folder.
+
+run the installMyDdesd script in matlab. (On a windows PC you'll
+likely need to be running matlab in Administrator mode).
+
+After the install ddesd_f5 should run like other de codes.
+
+Do NOT keep a spare copy of ddesd_f5.m in any folder in which you
+want to run the code, as this will prevent matlab finding the
+installed copy.
